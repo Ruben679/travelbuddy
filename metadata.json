@@ -1,0 +1,5 @@
+{
+  "name": "TravelBuddy",
+  "description": "A high-end travel booking platform for flights, trains, and hotels with an AI-powered 'Surprise Me' discovery engine.",
+  "requestFramePermissions": []
+}
